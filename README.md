@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nik154
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Node.js,Express.js
+- 👀 I’m interested in Web Development,Programming Using C++.
+- 🌱 I’m currently learning Node.js,Express.js,Algorithms.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me nxnitish154@gmail.com
 
